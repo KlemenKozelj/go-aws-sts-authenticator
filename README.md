@@ -1,6 +1,6 @@
 # go-aws-sts-authenticator
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) ![CI](https://github.com/KlemenKozelj/go-aws-sts-authenticator/actions/workflows/main.yml/badge.svg) ![Vulnerabilities](https://snyk.io/test/github/KlemenKozelj/go-aws-sts-authenticator/badge.svg)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![CI](https://github.com/KlemenKozelj/go-aws-sts-authenticator/actions/workflows/main.yaml/badge.svg?branch=main)](https://github.com/KlemenKozelj/go-aws-sts-authenticator/actions/workflows/main.yaml) ![Vulnerabilities](https://snyk.io/test/github/KlemenKozelj/go-aws-sts-authenticator/badge.svg)
 
 **go-aws-sts-authenticator** is a lightweight open-source project developed in Go. The primary objective of this project is to simplify API request authentication by reusing AWS IAM and STS services. It was inspired by Mongo's Atlas password-less database authentication mechanism, please see the credit section below for details.
 
