@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/klemenkozelj/go-aws-http-authenticator/client"
-	"github.com/klemenkozelj/go-aws-http-authenticator/server"
+	"github.com/klemenkozelj/go-aws-sts-authenticator/client"
+	"github.com/klemenkozelj/go-aws-sts-authenticator/server"
 )
 
 func main() {

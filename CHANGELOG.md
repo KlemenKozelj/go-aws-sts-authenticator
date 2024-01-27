@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.2] - 2024-01-27
+### Changed
+- updated external dependencies
+### Fixed
+- go.mod package name
+
 ## [1.0.1] - 2023-08-05
 ### Fixed
 - readme.md github ci badge
